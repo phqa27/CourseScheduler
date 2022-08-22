@@ -1,4 +1,3 @@
-// Students, fill this in.
 import java.util.Scanner;
 import structure5.*;
 
